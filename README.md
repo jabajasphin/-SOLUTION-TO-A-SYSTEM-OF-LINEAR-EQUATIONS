@@ -20,7 +20,7 @@ import numpy as np
 ```
 
 ## Output:
-![output1](first.png)
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
